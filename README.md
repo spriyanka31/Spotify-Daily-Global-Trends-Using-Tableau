@@ -1,5 +1,5 @@
-# 🎶 Spotify-Daily-Global-Trends-Using-Tableau
-# Spotify Dashboard Project
+# 🎶 Spotify Daily Global Trends Using Tableau
+
 
 ## Project Overview
 This project presents an interactive dashboard created using Tableau to analyze and visualize data from Spotify playlists. The dashboard provides insights into various playlists, tracks, and their characteristics, allowing users to explore trends and patterns in music consumption.
