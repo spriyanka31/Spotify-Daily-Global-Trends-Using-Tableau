@@ -1,4 +1,4 @@
-# Spotify-Daily-Global-Trends-Using-Tableau
+# 🎶 Spotify-Daily-Global-Trends-Using-Tableau
 # Spotify Dashboard Project
 
 ## Project Overview
@@ -58,7 +58,4 @@ The link to the published dashboard on Tableau Public can be found here- https:/
 
 ## Conclusion
 This project showcases the ability to gather, analyze, and visualize music data from Spotify using Tableau. The resulting dashboard provides valuable insights into music trends and enhances user understanding of the data.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
